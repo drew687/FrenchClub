@@ -31,12 +31,10 @@ h2{
   padding: 25px;
 }
 #members{
-  background-image: url(img/eiffel.jpg);
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: 100%;
-  width: 200%;
-  height: 300%;
-  color: white;
+  background: url("img/eiffel.jpg");
+  background-size: cover;
+  margin-left: 0px;
+  padding-left: 0px;
+  margin-right: 700px;
 
-}
+ }
