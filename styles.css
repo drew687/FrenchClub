@@ -30,11 +30,39 @@ h2{
   border: solid;
   padding: 25px;
 }
-#members{
-  background: url("img/eiffel.jpg");
+.members{
+  background: url(img/france.jpg);
+  height: 1000px;
   background-size: cover;
-  margin-left: 0px;
-  padding-left: 0px;
-  margin-right: 700px;
-
+  color: white;
+  background-repeat: no-repeat;
+  margin-bottom: 0px;
+  background-position: 50%;
  }
+ .about{
+   background: url(img/louvre.jpg);
+   height: 1000px;
+   background-size: cover;
+   color: white;
+   background-repeat: no-repeat;
+   margin-bottom: 0px;
+   background-position: 50%;
+  }
+  .contact{
+    background: url(img/triomphe.jpg);
+    height: 1000px;
+    background-size: cover;
+    color: white;
+    background-repeat: no-repeat;
+    margin-bottom: 0px;
+    background-position: 50%;
+   }
+   .activities{
+     background: url(img/pont.jpg);
+     height: 1000px;
+     background-size: cover;
+     color: white;
+     background-repeat: no-repeat;
+     margin-bottom: 0px;
+     background-position: 50%;
+    }
