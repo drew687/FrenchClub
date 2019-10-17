@@ -30,6 +30,10 @@ h2{
   border: solid;
   padding: 25px;
 }
+.home{
+
+
+}
 .members{
   background: url(img/france.jpg);
   height: 1000px;
@@ -78,4 +82,24 @@ h2{
      .testimonialsBoxes{
        background-color: rgba(20, 18, 11, 0.4);
        border: 0px;
+     }
+     .activitiesBoxes{
+       background-color: rgba(20, 18, 11, 0.6);
+       border: 0px;
+     }
+     .membersBoxes{
+       background-color: rgba(20, 18, 11, 0.2);
+       border: 0px;
+       font-size: 20px;
+     }
+     .contactBoxes{
+       background-color: rgba(20, 18, 11, 0.2);
+       border: 0px;
+       font-size: 20px;
+       text-align: center;
+     }
+     .aboutBoxes{
+       background-color: rgba(20, 18, 11, 0.5);
+       border: 0px;
+       font-size: 20px;
      }
