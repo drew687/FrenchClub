@@ -78,29 +78,44 @@ h2{
      }
      .testimonialsBoxes{
        background-color: rgba(20, 18, 11, 0.4);
+       font-weight: bold;
        border: 0px;
+       font-family: 'Srisakdi', cursive;
+       font-size: 20px
      }
      .activitiesBoxes{
        background-color: rgba(20, 18, 11, 0.6);
        border: 0px;
+       font-weight: bold;
+       font-family: 'Srisakdi', cursive;
+       font-size: 30px;
      }
      .membersBoxes{
        background-color: rgba(20, 18, 11, 0.2);
        border: 0px;
+       font-family: 'Srisakdi', cursive;
+       font-weight: bold;
        font-size: 20px;
 
      }
      .contactBoxes{
        background-color: rgba(20, 18, 11, 0.2);
        border: 0px;
+       font-family: 'Srisakdi', cursive;
+       font-weight: bold;
        font-size: 20px;
        text-align: center;
      }
      .aboutBoxes{
        background-color: rgba(20, 18, 11, 0.5);
+       font-family: 'Srisakdi', cursive;
+       font-weight: bold;
        border: 0px;
        font-size: 20px;
      }
 .d-block{
   height: 700px;
+}
+.bulletin{
+  height: 300px;
 }
