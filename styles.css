@@ -90,6 +90,7 @@ h2{
        font-family: 'Srisakdi', cursive;
        font-size: 30px;
      }
+     
      .membersBoxes{
        background-color: rgba(20, 18, 11, 0.2);
        border: 0px;
@@ -103,7 +104,7 @@ h2{
        border: 0px;
        font-family: 'Srisakdi', cursive;
        font-weight: bold;
-       font-size: 20px;
+       font-size: 30px;
        text-align: center;
      }
      .aboutBoxes{
@@ -111,7 +112,7 @@ h2{
        font-family: 'Srisakdi', cursive;
        font-weight: bold;
        border: 0px;
-       font-size: 20px;
+       font-size: 30px;
      }
 .d-block{
   height: 700px;
