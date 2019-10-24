@@ -18,10 +18,12 @@ h1{
   text-align: center;
   text-decoration: underline;
   font-size: 50px;
+  font-weight: bold;
+  font-family: 'Cormorant Garamond', serif;
 }
 h2{
   text-align: center;
-
+font-family: 'Cormorant Garamond', serif;
 }
 .col-md-5{
   text-align: center;
@@ -80,21 +82,21 @@ h2{
        background-color: rgba(20, 18, 11, 0.4);
        font-weight: bold;
        border: 0px;
-       font-family: 'Srisakdi', cursive;
+        font-family: 'Cormorant Garamond', serif;
        font-size: 20px
      }
      .activitiesBoxes{
        background-color: rgba(20, 18, 11, 0.6);
        border: 0px;
        font-weight: bold;
-       font-family: 'Srisakdi', cursive;
+        font-family: 'Cormorant Garamond', serif;
        font-size: 30px;
      }
-     
+
      .membersBoxes{
        background-color: rgba(20, 18, 11, 0.2);
        border: 0px;
-       font-family: 'Srisakdi', cursive;
+         font-family: 'Cormorant Garamond', serif;
        font-weight: bold;
        font-size: 20px;
 
@@ -102,15 +104,15 @@ h2{
      .contactBoxes{
        background-color: rgba(20, 18, 11, 0.2);
        border: 0px;
-       font-family: 'Srisakdi', cursive;
+         font-family: 'Cormorant Garamond', serif;
        font-weight: bold;
        font-size: 30px;
        text-align: center;
      }
      .aboutBoxes{
        background-color: rgba(20, 18, 11, 0.5);
-       font-family: 'Srisakdi', cursive;
-       font-weight: bold;
+       font-family: 'Cormorant Garamond', serif;
+
        border: 0px;
        font-size: 30px;
      }
