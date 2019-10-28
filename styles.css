@@ -1,8 +1,9 @@
 .display-4{
   text-align: center;
   font-family: 'Alfa Slab One', cursive;
-  font-size: 80px;
-text-decoration: none;
+  font-size: 73px;
+  text-decoration: none;
+
 }
 .jumbotron{
   background-image: url(img/Flag_of_France.png);
@@ -13,6 +14,7 @@ text-decoration: none;
   background-position: 50%;
   background-repeat: no-repeat;
   margin-bottom: 0px;
+
 }
 h1{
   text-align: center;
@@ -121,4 +123,10 @@ font-family: 'Cormorant Garamond', serif;
 }
 .bulletin{
   height: 300px;
+}
+footer{
+  background-color: #292828;
+  height: 40px;
+  color: white;
+  font-size: 18px;
 }
