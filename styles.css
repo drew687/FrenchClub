@@ -1,11 +1,11 @@
-.display-4{
+.display-4 {
   text-align: center;
   font-family: 'Alfa Slab One', cursive;
   font-size: 73px;
   text-decoration: none;
-
 }
-.jumbotron{
+
+.jumbotron {
   background-image: url(img/Flag_of_France.png);
   height: 350%;
   border: solid;
@@ -14,20 +14,39 @@
   background-position: 50%;
   background-repeat: no-repeat;
   margin-bottom: 0px;
-
 }
-h1{
+
+h1 {
   text-align: center;
   text-decoration: underline;
   font-size: 50px;
   font-weight: bold;
   font-family: 'Cormorant Garamond', serif;
 }
-h2{
+
+h2 {
   text-align: center;
-font-family: 'Cormorant Garamond', serif;
+  font-family: 'Cormorant Garamond', serif;
+  font-weight: bold;
 }
-.col-md-5{
+
+h3 {
+  text-align: center;
+  font-family: 'Cormorant Garamond', serif;
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+p {
+  text-align: center;
+  font-family: 'Cormorant Garamond', serif;
+}
+
+a {
+  color: white;
+}
+
+.col-md-5 {
   text-align: center;
   background-color: #464444;
   color: white;
@@ -35,7 +54,7 @@ font-family: 'Cormorant Garamond', serif;
   padding: 25px;
 }
 
-.members{
+.members {
   background: url(img/france.jpg);
   height: 1000px;
   background-size: cover;
@@ -43,90 +62,104 @@ font-family: 'Cormorant Garamond', serif;
   background-repeat: no-repeat;
   margin-bottom: 0px;
   background-position: 50%;
- }
- .about{
-   background: url(img/louvre.jpg);
-   height: 1000px;
-   background-size: cover;
-   color: white;
-   background-repeat: no-repeat;
-   margin-bottom: 0px;
-   background-position: 50%;
-  }
-  .contact{
-    background: url(img/triomphe.jpg);
-    height: 1000px;
-    background-size: cover;
-    color: white;
-    background-repeat: no-repeat;
-    margin-bottom: 0px;
-    background-position: 50%;
-   }
-   .activities{
-     background: url(img/pont.jpg);
-     height: 1000px;
-     background-size: cover;
-     color: white;
-     background-repeat: no-repeat;
-     margin-bottom: 0px;
-     background-position: 50%;
-    }
-    .testimonials{
-      background: url(img/sacre-coeur.jpg);
-      height: 1000px;
-      background-size: cover;
-      color: white;
-      background-repeat: no-repeat;
-      margin-bottom: 0px;
-      background-position: 50%;
-     }
-     .testimonialsBoxes{
-       background-color: rgba(20, 18, 11, 0.4);
-       font-weight: bold;
-       border: 0px;
-        font-family: 'Cormorant Garamond', serif;
-       font-size: 20px
-     }
-     .activitiesBoxes{
-       background-color: rgba(20, 18, 11, 0.6);
-       border: 0px;
-       font-weight: bold;
-        font-family: 'Cormorant Garamond', serif;
-       font-size: 30px;
-     }
+}
 
-     .membersBoxes{
-       background-color: rgba(20, 18, 11, 0.2);
-       border: 0px;
-         font-family: 'Cormorant Garamond', serif;
-       font-weight: bold;
-       font-size: 20px;
+.about {
+  background: url(img/louvre.jpg);
+  height: 1000px;
+  background-size: cover;
+  color: white;
+  background-repeat: no-repeat;
+  margin-bottom: 0px;
+  background-position: 50%;
+}
 
-     }
-     .contactBoxes{
-       background-color: rgba(20, 18, 11, 0.2);
-       border: 0px;
-         font-family: 'Cormorant Garamond', serif;
-       font-weight: bold;
-       font-size: 30px;
-       text-align: center;
-     }
-     .aboutBoxes{
-       background-color: rgba(20, 18, 11, 0.5);
-       font-family: 'Cormorant Garamond', serif;
+.contact {
+  background: url(img/triomphe.jpg);
+  height: 1000px;
+  background-size: cover;
+  color: white;
+  background-repeat: no-repeat;
+  margin-bottom: 0px;
+  background-position: 50%;
+}
 
-       border: 0px;
-       font-size: 30px;
-     }
-.d-block{
+.activities {
+  background: url(img/pont.jpg);
+  height: 1000px;
+  background-size: cover;
+  color: white;
+  background-repeat: no-repeat;
+  margin-bottom: 0px;
+  background-position: 50%;
+}
+
+.testimonials {
+  background: url(img/sacre-coeur.jpg);
+  height: 1000px;
+  background-size: cover;
+  color: white;
+  background-repeat: no-repeat;
+  margin-bottom: 0px;
+  background-position: 50%;
+}
+
+.testimonialsBoxes {
+  background-color: rgba(20, 18, 11, 0.4);
+  font-weight: bold;
+  border: 0px;
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 20px
+}
+
+.activitiesBoxes {
+  background-color: rgba(20, 18, 11, 0.6);
+  border: 0px;
+  font-weight: bold;
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 30px;
+}
+
+.membersBoxes {
+  background-color: rgba(20, 18, 11, 0.2);
+  border: 0px;
+  font-family: 'Cormorant Garamond', serif;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.contactBoxes {
+  background-color: rgba(20, 18, 11, 0.2);
+  border: 0px;
+  font-family: 'Cormorant Garamond', serif;
+  font-weight: bold;
+  font-size: 30px;
+  text-align: center;
+}
+
+.aboutBoxes {
+  background-color: rgba(20, 18, 11, 0.5);
+  font-family: 'Cormorant Garamond', serif;
+  border: 0px;
+  font-size: 30px;
+}
+
+.d-block {
   height: 700px;
 }
-.bulletin{
+
+.bulletin {
   height: 300px;
 }
-footer{
+
+.footer {
   background-color: #292828;
-  height: 40px;
+  height: 50px;
+  background-size: cover;
+  color: white;
+  background-repeat: no-repeat;
+  margin-bottom: 0px;
+  background-position: 50%;
   color: white;
   font-size: 18px;
 }
