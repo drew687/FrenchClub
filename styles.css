@@ -111,7 +111,12 @@ a {
   font-family: 'Cormorant Garamond', serif;
   font-size: 20px
 }
-
+.testimonialsBoxes>p{
+  text-align: center;
+}
+.testimonial>p{
+  margin-top: 39px;
+}
 .activitiesBoxes {
   background-color: rgba(20, 18, 11, 0.6);
   border: 0px;
