@@ -4,6 +4,13 @@
   font-size: 73px;
   text-decoration: none;
 }
+.display-4 {
+	text-shadow:
+		-1px -1px 0 #ffffff,
+		1px -1px 0 #ffffff,
+		-1px 1px 0 #ffffff,
+		1px 1px 0 #ffffff;
+}
 
 .jumbotron {
   background-image: url(img/Flag_of_France.png);
@@ -103,7 +110,18 @@ a {
   margin-bottom: 0px;
   background-position: 50%;
 }
-
+.homeBoxes{
+  background-image: url(img/t.shirt.jpg);
+  height: 350px;
+  margin-top: 200px;
+}
+.t-shirt{
+  height: 300px;
+  width: px;
+  align-items: center;
+  margin-top: 200px;
+  margin-right: 200px;
+}
 .testimonialsBoxes {
   background-color: rgba(20, 18, 11, 0.4);
   font-weight: bold;
