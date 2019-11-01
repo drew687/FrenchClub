@@ -111,16 +111,25 @@ a {
   background-position: 50%;
 }
 .homeBoxes{
-  background-image: url(img/t.shirt.jpg);
-  height: 350px;
-  margin-top: 200px;
+  margin-top: 70px;
+  margin-bottom: 50px;
+  margin-left: 60px;
+
+}
+.col-md-4>p{
+  margin-top: 120px;
+  font-size: 30px;
+  font-family: 'Anton', sans-serif;
+  max-width: 100%;
+    height: auto;
 }
 .t-shirt{
-  height: 300px;
-  width: px;
-  align-items: center;
-  margin-top: 200px;
-  margin-right: 200px;
+
+  max-width: 100%;
+  height: auto;
+  color: white;
+  margin-bottom: 0px;
+
 }
 .testimonialsBoxes {
   background-color: rgba(20, 18, 11, 0.4);
