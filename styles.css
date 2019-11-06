@@ -115,9 +115,11 @@ a {
 .homeBoxes {
   margin-top: 70px;
   margin-bottom: 50px;
+  width: 100%;
+  height: 100%;
 }
 
-@media screen and (max-width: 990px) {
+@media screen and (max-width: 1000px) {
   .homeBoxes {
     margin-top: 10px;
     margin-bottom: 10px;
@@ -129,13 +131,13 @@ a {
   }
 
   .t-shirt {
-    width: 100%;
-    height: 100%;
+    width: 360px;
+    height: 340px;
   }
 
   .middle {
     font-size: 30px;
-    width: 100%;
+    width: 300px;
     margin-top: 5px;
     margin-bottom: 5px;
   }
