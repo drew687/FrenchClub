@@ -119,33 +119,11 @@ a {
   height: 100%;
 }
 
-@media screen and (max-width: 1000px) {
-  .homeBoxes {
-    margin-top: 10px;
-    margin-bottom: 10px;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 380px;
-    height: 360px;
-  }
 
-  .t-shirt {
-    width: 360px;
-    height: 340px;
-  }
-
-  .middle {
-    font-size: 30px;
-    width: 300px;
-    margin-top: 5px;
-    margin-bottom: 5px;
-  }
-}
 
 .middle {
   margin-top: 120px;
-  margin-right: 0px;
+  margin-bottom: 80px;
   font-size: 30px;
   font-family: 'Anton', sans-serif;
   width: 100%;
@@ -206,11 +184,6 @@ a {
   font-size: 30px;
 }
 
-@media screen and (max-width: 800px) {
-  .aboutBoxes {
-    font-size: 25px;
-  }
-}
 
 .d-block {
   height: 700px;
@@ -230,4 +203,44 @@ a {
   background-position: 50%;
   color: white;
   font-size: 18px;
+}
+@media screen and (max-width: 1025px) {
+  .aboutBoxes {
+    font-size: 25px;
+  }
+  .homeBoxes {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+
+  }
+  .middle {
+  
+    width: 300px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+}
+@media screen and (max-width: 415px) {
+  .aboutBoxes {
+    font-size: 25px;
+  }
+  .homeBoxes {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+
+  }
+  .middle {
+
+    width: 300px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
 }
