@@ -217,9 +217,11 @@ a {
 }
 
 @media screen and (max-width: 1025px) {
-  .aboutBoxes {
-    font-size: 25px;
+  .bulletin{
+    width: 300px;
+    height: 280px;
   }
+  
 .t-shirt{
   width: 340px;
   height: 360px;
@@ -244,8 +246,15 @@ a {
 }
 
 @media screen and (max-width: 415px) {
-  .aboutBoxes {
+  .activitiesBoxes{
     font-size: 25px;
+  }
+  .bulletin{
+    width:250px;
+    height:220px;
+  }
+  .aboutBoxes {
+    font-size: 20px;
   }
 .t-shirt{
   width: 300px;
