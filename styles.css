@@ -219,6 +219,10 @@ h4 {
 .bulletin {
   height: 300px;
 }
+.puppet{
+  width: 400px;
+  height: 250px;
+}
 
 .footer {
   background-color: #292828;
@@ -271,6 +275,7 @@ h4 {
     width: 250px;
     height: 220px;
   }
+
 .membersBoxes{
   font-size: 25px;
 }
@@ -293,6 +298,7 @@ h4 {
     width: 320px;
     height: 300px;
   }
+
 
    h4{
     text-align: center;
