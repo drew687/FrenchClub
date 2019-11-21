@@ -203,6 +203,7 @@ h4 {
   font-weight: bold;
   font-size: 30px;
   text-align: center;
+    line-height: 2.5;
 }
 
 .aboutBoxes {
@@ -220,11 +221,10 @@ h4 {
   height: 300px;
 }
 .puppet{
-  width: 400px;
-  height: 250px;
+  height: 300px;
+  width: 340px;
 }
-
-.footer {
+footer {
   background-color: #292828;
   height: 50px;
   background-size: cover;
@@ -241,7 +241,10 @@ h4 {
     width: 300px;
     height: 280px;
   }
-
+.puppet{
+  width: 300px;
+  height: 280px;
+}
   .t-shirt {
     width: 340px;
     height: 360px;
@@ -275,7 +278,55 @@ h4 {
     width: 250px;
     height: 220px;
   }
+.puppet{
+  width: 250px;
+  height: 220px;
+}
+.membersBoxes{
+  font-size: 25px;
+}
+  .aboutBoxes {
+    font-size: 20px;
+  }
 
+  .t-shirt {
+    width: 300px;
+    height: 280px;
+    margin-left: 0px;
+  }
+
+  .homeBoxes {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 320px;
+    height: 300px;
+  }
+
+
+   h4{
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 25px;
+  }
+}
+@media screen and (max-width:775px) {
+  .activitiesBoxes {
+    font-size: 15px;
+
+  }
+
+  .bulletin {
+    width: 180px;
+    height: 150px;
+  }
+.puppet{
+  width: 180px;
+  height: 150px;
+}
 .membersBoxes{
   font-size: 25px;
 }
