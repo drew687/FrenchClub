@@ -32,10 +32,10 @@ h1 {
   font-family: 'Cormorant Garamond', serif;
   margin-bottom: 30px;
   text-shadow:
-      -1px -1px 0 black,
-      1px -1px 0 black,
-      -1px 1px 0 black,
-      1px 1px 0 black;
+    -1px -1px 0 black,
+    1px -1px 0 black,
+    -1px 1px 0 black,
+    1px 1px 0 black;
 }
 
 h2 {
@@ -203,7 +203,7 @@ h4 {
   font-weight: bold;
   font-size: 30px;
   text-align: center;
-    line-height: 2.5;
+  line-height: 2.5;
 }
 
 .aboutBoxes {
@@ -220,10 +220,12 @@ h4 {
 .bulletin {
   height: 300px;
 }
-.puppet{
+
+.puppet {
   height: 300px;
   width: 340px;
 }
+
 footer {
   background-color: #292828;
   height: 50px;
@@ -241,10 +243,12 @@ footer {
     width: 300px;
     height: 280px;
   }
-.puppet{
-  width: 300px;
-  height: 280px;
-}
+
+  .puppet {
+    width: 300px;
+    height: 280px;
+  }
+
   .t-shirt {
     width: 340px;
     height: 360px;
@@ -271,20 +275,22 @@ footer {
 @media screen and (max-width: 991px) {
   .activitiesBoxes {
     font-size: 20px;
-
   }
 
   .bulletin {
     width: 250px;
     height: 220px;
   }
-.puppet{
-  width: 250px;
-  height: 220px;
-}
-.membersBoxes{
-  font-size: 25px;
-}
+
+  .puppet {
+    width: 250px;
+    height: 220px;
+  }
+
+  .membersBoxes {
+    font-size: 25px;
+  }
+
   .aboutBoxes {
     font-size: 20px;
   }
@@ -305,31 +311,33 @@ footer {
     height: 300px;
   }
 
-
-   h4{
+  h4 {
     text-align: center;
     margin-top: 5px;
     margin-bottom: 5px;
     font-size: 25px;
   }
 }
+
 @media screen and (max-width:775px) {
   .activitiesBoxes {
     font-size: 15px;
-
   }
 
   .bulletin {
     width: 180px;
     height: 150px;
   }
-.puppet{
-  width: 180px;
-  height: 150px;
-}
-.membersBoxes{
-  font-size: 25px;
-}
+
+  .puppet {
+    width: 180px;
+    height: 150px;
+  }
+
+  .membersBoxes {
+    font-size: 25px;
+  }
+
   .aboutBoxes {
     font-size: 20px;
   }
@@ -350,8 +358,7 @@ footer {
     height: 300px;
   }
 
-
-   h4{
+  h4 {
     text-align: center;
     margin-top: 5px;
     margin-bottom: 5px;
