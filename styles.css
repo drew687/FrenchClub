@@ -135,6 +135,10 @@ a {
   color: white;
   margin-bottom: 0px;
   margin-left: 70px;
+  border-style: solid;
+  border-radius: 50px;
+  border-width: 7px;
+  border-color: black;
 }
 
 .homeBoxes {
