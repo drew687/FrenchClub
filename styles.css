@@ -242,7 +242,10 @@ footer {
   color: white;
   font-size: 18px;
 }
-
+.btn{
+  background-color: white;
+   text-decoration: none;
+}
 @media screen and (max-width: 1199px) {
   .bulletin {
     width: 300px;
