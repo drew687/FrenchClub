@@ -18,3 +18,10 @@ Make sure fonts are linked and check on a diff computer
 Check all links
 4 questions
 proofread
+
+
+Each page should have some similar keywords and some specific to the page.
+Comments on additonal pages
+Describe in a comment what the function is for in main.js
+Comments in css file and organized within those comments
+Assign work to Nic
