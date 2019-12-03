@@ -202,6 +202,7 @@ h4 {
 }
 /*End of justin*/
 /*start of nic*/
+/*start of .contactBoxes*/
 .contactBoxes {
   background-color: rgba(20, 18, 11, 0.2);
   border: 0px;
@@ -211,37 +212,46 @@ h4 {
   text-align: center;
   line-height: 2.5;
 }
-
+/*end of .contactBoxes*/
+/*start of .aboutBoxes*/
 .aboutBoxes {
   background-color: rgba(20, 18, 11, 0.5);
   font-family: 'Cormorant Garamond', serif;
   border: 0px;
   font-size: 30px;
 }
-
+/*end of .aboutBoxes*/
+/*start of .d-block*/
 .d-block {
   height: 700px;
 }
-
+/*end of .d-block*/
+/*start of .bulletin*/
 .bulletin {
   height: 300px;
 }
-
+/*end of .bulletin*/
+/*start of .puppet*/
 .puppet {
   height: 300px;
   width: 340px;
 }
+/*end of .puppet*/
+/*start of .btn*/
 .btn{
   background-color: black;
   color: white;
   border: none;
-
+/*end of .btn*/
+/*start of .btn:hover*/
 }
 .btn:hover{
   background-color:  #292828;
   transform: scale(1.1);
   color: white;
 }
+/*end of .btn:hover*/
+/*start of .footer*/
 footer {
   background-color: #292828;
   height: 50px;
@@ -253,23 +263,27 @@ footer {
   color: white;
   font-size: 18px;
 }
-
+/*end of .footer*/
+/*start of @media screen and (max-width:)*/
 @media screen and (max-width: 1199px) {
   .bulletin {
     width: 300px;
     height: 280px;
   }
-
+/*end of @media screen and (max-width)*/
+/*start of .puppet*/
   .puppet {
     width: 300px;
     height: 280px;
   }
-
+/*end of .puppet*/
+/*start of .t-shirt*/
   .t-shirt {
     width: 340px;
     height: 360px;
   }
-
+/*end of .t-shirt*/
+/*start of .homeboxes*/
   .homeBoxes {
     margin-top: 10px;
     margin-bottom: 10px;
@@ -279,44 +293,52 @@ footer {
     width: 500px;
     height: 360px;
   }
-
+/*end of .homeboxes*/
+/*start of h4*/
   h4 {
     text-align: center;
     font-stretch: expanded;
     margin-top: 5px;
     margin-bottom: 5px;
   }
+  /*end of h4*/
 }
-
+/*start of @media screen and (max-width)*/
 @media screen and (max-width: 991px) {
   .activitiesBoxes {
     font-size: 20px;
   }
-
+/*end of @media screen and (max-width)*/
+/*start of .bulletin*/
   .bulletin {
     width: 250px;
     height: 220px;
   }
-
+/*end of .bulletin*/
+/*start of .puppet*/
   .puppet {
     width: 250px;
     height: 220px;
   }
-
+/*end of .puppet*/
+/*start of .membersBoxes*/
   .membersBoxes {
     font-size: 25px;
   }
-
+/*end of .memberBoxes*/
+/* */
   .aboutBoxes {
     font-size: 20px;
   }
-
+/* */
+/* */
   .t-shirt {
     width: 300px;
     height: 280px;
     margin-left: 0px;
   }
-
+/* */
+/* */
   .homeBoxes {
     margin-top: 10px;
     margin-bottom: 10px;
@@ -326,7 +348,8 @@ footer {
     width: 320px;
     height: 300px;
   }
-
+/* */
+/* */
   h4 {
     text-align: center;
     margin-top: 5px;
