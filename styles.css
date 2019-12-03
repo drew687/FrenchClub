@@ -1,18 +1,17 @@
+/*start of .display-4*/
 .display-4 {
   text-align: center;
   font-family: 'Alfa Slab One', cursive;
   font-size: 73px;
   text-decoration: none;
-}
-
-.display-4 {
   text-shadow:
     -1px -1px 0 #ffffff,
     1px -1px 0 #ffffff,
     -1px 1px 0 #ffffff,
     1px 1px 0 #ffffff;
 }
-
+/*end of .display-4*/
+/*start of .jumbotron*/
 .jumbotron {
   background-image: url(img/Flag_of_France.png);
   height: 350%;
@@ -23,7 +22,8 @@
   background-repeat: no-repeat;
   margin-bottom: 0px;
 }
-
+/*end of .jumbotron*/
+/*start of h1*/
 h1 {
   text-align: center;
   text-decoration: underline;
@@ -37,7 +37,8 @@ h1 {
     -1px 1px 0 black,
     1px 1px 0 black;
 }
-
+/*end of h1*/
+/*start of h2*/
 h2 {
   text-align: center;
   font-family: 'Cormorant Garamond', serif;
@@ -50,7 +51,8 @@ h2 {
     1px 1px 0 black;
   font-size: 37px;
 }
-
+/*end of h2*/
+/*start of h3*/
 h3 {
   text-align: center;
   font-family: 'Cormorant Garamond', serif;
@@ -62,16 +64,19 @@ h3 {
     -1px 1px 0 black,
     1px 1px 0 black;
 }
-
+/*end of h3*/
+/*start of p*/
 p {
   text-align: center;
   font-family: 'Cormorant Garamond', serif;
 }
-
+/*end of p*/
+/*start of a*/
 a {
   color: white;
 }
-
+/*end of a*/
+/*start of .col-md-5*/
 .col-md-5 {
   text-align: center;
   background-color: #464444;
@@ -79,7 +84,8 @@ a {
   border: solid;
   padding: 25px;
 }
-
+/*end of .col-md-5*/
+/*start of .members*/
 .members {
   background: url(img/france.jpg);
   height: 1000px;
@@ -89,7 +95,8 @@ a {
   margin-bottom: 0px;
   background-position: 50%;
 }
-
+/*end of .members*/
+/*start of .about*/
 .about {
   background: url(img/louvre.jpg);
   height: 1000px;
@@ -99,7 +106,8 @@ a {
   margin-bottom: 0px;
   background-position: 50%;
 }
-
+/**/
+/**/
 .contact {
   background: url(img/triomphe.jpg);
   height: 1000px;
@@ -109,7 +117,8 @@ a {
   margin-bottom: 0px;
   background-position: 50%;
 }
-
+/**/
+/**/
 .activities {
   background: url(img/pont.jpg);
   height: 1000px;
@@ -119,7 +128,8 @@ a {
   margin-bottom: 0px;
   background-position: 50%;
 }
-
+/**/
+/**/
 .testimonials {
   background: url(img/sacre-coeur.jpg);
   height: 1000px;
@@ -129,7 +139,8 @@ a {
   margin-bottom: 0px;
   background-position: 50%;
 }
-
+/**/
+/**/
 .t-shirt {
   width: 360px;
   height: 380px;
@@ -141,7 +152,8 @@ a {
   border-width: 7px;
   border-color: black;
 }
-
+/**/
+/**/
 .homeBoxes {
   margin-top: 0px;
   margin-bottom: 50px;
@@ -150,23 +162,27 @@ a {
   align-items: center;
   transition: all .2s ease-in-out;
 }
-
+/**/
+/**/
 .middle {
   margin-top: 20px;
   height: 100px;
   text-align: center;
 }
-
+/**/
+/**/
 .homeBoxes:hover {
   transform: scale(1.1);
 }
-
+/**/
+/**/
 h4 {
   text-align: center;
   font-size: 45px;
   font-family: 'Anton', sans-serif;
 }
-
+/**/
+/**/
 .testimonialsBoxes {
   background-color: rgba(20, 18, 11, 0.4);
   font-weight: bold;
@@ -174,15 +190,18 @@ h4 {
   font-family: 'Cormorant Garamond', serif;
   font-size: 20px
 }
-
+/**/
+/**/
 .testimonialsBoxes>p {
   text-align: center;
 }
-
+/**/
+/**/
 .testimonial>p {
   margin-top: 39px;
 }
-
+/**/
+/**/
 .activitiesBoxes {
   background-color: rgba(20, 18, 11, 0.6);
   border: 0px;
@@ -190,7 +209,8 @@ h4 {
   font-family: 'Cormorant Garamond', serif;
   font-size: 30px;
 }
-
+/**/
+/**/
 .membersBoxes {
   background-color: rgba(20, 18, 11, 0.2);
   border: 0px;
@@ -200,6 +220,7 @@ h4 {
   line-height: 2;
   margin-top: 55px;
 }
+/**/
 /*End of justin*/
 /*start of nic*/
 .contactBoxes {
