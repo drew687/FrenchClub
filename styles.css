@@ -263,9 +263,12 @@ h4 {
   background-color: black;
   color: white;
   border: none;
+  height: 35px;
+  margin-left:520px;
+}
 /*end of .btn*/
 /*start of .btn:hover*/
-}
+
 .btn:hover{
   background-color:  #292828;
   transform: scale(1.1);
@@ -323,6 +326,10 @@ footer {
     margin-bottom: 5px;
   }
   /*end of h4*/
+  .btn{
+    margin-left: none;
+    margin-right: 100px;
+  }
 }
 /*start of @media screen and (max-width)*/
 @media screen and (max-width: 991px) {
