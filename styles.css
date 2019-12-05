@@ -266,9 +266,12 @@ h4 {
   background-color: black;
   color: white;
   border: none;
+  height: 35px;
+  margin-left:520px;
+}
 /*end of .btn*/
 /*start of .btn:hover*/
-}
+
 .btn:hover{
   background-color:  #292828;
   transform: scale(1.1);
@@ -326,6 +329,10 @@ footer {
     margin-bottom: 5px;
   }
   /*end of h4*/
+  .btn{
+    margin-left: none;
+    margin-right: 100px;
+  }
 }
 /*start of @media screen and (max-width)*/
 @media screen and (max-width: 991px) {
@@ -350,19 +357,19 @@ footer {
     font-size: 25px;
   }
 /*end of .memberBoxes*/
-/* */
+/*start of .aboutBoxes*/
   .aboutBoxes {
     font-size: 20px;
   }
-/* */
-/* */
+/*end of .aboutBoxes*/
+/*start of .t-shirt*/
   .t-shirt {
     width: 300px;
     height: 280px;
     margin-left: 0px;
   }
-/* */
-/* */
+/*end of .t-shirt*/
+/*start of .homeBoxes*/
   .homeBoxes {
     margin-top: 10px;
     margin-bottom: 10px;
@@ -372,8 +379,8 @@ footer {
     width: 320px;
     height: 300px;
   }
-/* */
-/* */
+/*end of .homeBoxes*/
+/*start of h4*/
   h4 {
     text-align: center;
     margin-top: 5px;
@@ -381,36 +388,43 @@ footer {
     font-size: 25px;
   }
 }
-
+/*end of h4*/
+/*start of @media screen and (max-width:775px)*/
 @media screen and (max-width:775px) {
   .activitiesBoxes {
     font-size: 15px;
   }
-
+/*end of @media screen and (max-width:775px)*/
+/*start of .bulletin*/
   .bulletin {
     width: 180px;
     height: 150px;
   }
-
+/*end of .bulletin*/
+/*start of .puppet*/
   .puppet {
     width: 180px;
     height: 150px;
   }
-
+/*end of .puppet*/
+/*start of .membersBoxes*/
   .membersBoxes {
     font-size: 25px;
   }
-
+/*end of .membersBoxes*/
+/*start of .aboutBoxes*/
   .aboutBoxes {
     font-size: 20px;
   }
-
+/*end of .aboutBoxes*/
+/*start of .t-shirt*/
   .t-shirt {
     width: 300px;
     height: 280px;
     margin-left: 0px;
   }
-
+/*end of .t-shirt*/
+/*start of .homeBoxes*/
   .homeBoxes {
     margin-top: 10px;
     margin-bottom: 10px;
@@ -420,7 +434,8 @@ footer {
     width: 320px;
     height: 300px;
   }
-
+/*end of .homeBoxes*/
+/*start of h4*/
   h4 {
     text-align: center;
     margin-top: 5px;
@@ -428,3 +443,4 @@ footer {
     font-size: 25px;
   }
 }
+/*end of h4*/
