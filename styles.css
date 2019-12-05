@@ -207,7 +207,7 @@ h4 {
   border: 0px;
   font-weight: bold;
   font-family: 'Cormorant Garamond', serif;
-  font-size: 30px;
+  font-size: 27px;
 }
 /*end of .testimonialsBoxes*/
 /*start of .membersBoxes*/
@@ -252,7 +252,7 @@ h4 {
 /*end of .puppets*/
 /*start of .bulletin*/
 .bulletin {
-  height: 300px;
+  height: 240px;
 }
 /*end of .bulletin*/
 /*start of .puppet*/
@@ -344,7 +344,7 @@ footer {
 /*start of .bulletin*/
   .bulletin {
     width: 250px;
-    height: 220px;
+    height: 020px;
   }
 /*end of .bulletin*/
 /*start of .puppet*/
