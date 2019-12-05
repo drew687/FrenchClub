@@ -1,3 +1,4 @@
+/*Start to translate the activites page*/
 function french() {
   var french = "Le club français se rendra dans différentes écoles d’Elémentry et présentera des spectacles de marionnettes en français.";
   var french2 = "Le babillard est l'endroit où nous allons mettre l'information mensuelle en français. Les choses que nous mettons sur le tableau bulltin sont le mot français, la phrase française et le pays français.";
@@ -14,6 +15,8 @@ function french() {
     document.getElementById("activities2").innerHTML = "The bulletin board is where we are going to put the monthly information in French. Things we are putting on the bulltin board is the French word, French phrase, and French country.";
   }
 }
+/*end to translate the activites page*/
+/*Start of translating Testimonial page*/
 function frenchtest() {
   var frencht1 = "'French Club est un endroit agréable pour les passionnés d’apprentissage du français.'";
   var frencht2 = "'Le club français est un excellent moyen de rester en contact avec la langue et la culture françaises. Aussi, vous pouvez faire des activités vraiment amusantes et son ensemble est un club très amusant pour être en dehors de.''";
@@ -47,7 +50,7 @@ function frenchtest() {
     document.getElementById("test4").innerHTML = "'French Club is a fun place to learn more about France! We get to do different activites and practice are french.'";
   }
 }
-
+/*End of translating Testimonial page*/
 
 
 /* This is the start of the membersfrench page with a translate function button*/

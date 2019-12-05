@@ -247,7 +247,7 @@ h4 {
 /*end of .d-block*/
 /*start of .puppets*/
 .puppets{
-  transform: rotate(90deg);
+  width:100%;
 }
 /*end of .puppets*/
 /*start of .bulletin*/
@@ -258,7 +258,7 @@ h4 {
 /*start of .puppet*/
 .puppet {
   height: 350px;
-  width: 340px;
+  width: 380px;
   transform: rotate(90deg);
 }
 /*end of .puppet*/
