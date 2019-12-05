@@ -50,7 +50,7 @@ function frenchtest() {
 
 
 
-
+/* This is the start of the membersfrench page with a translate function button*/
 function membersfrench() {
   var french3 = "Les étudiants du club français sont des personnes qui veulent en savoir plus sur la culture française que ce qu’ils apprennent déjà en classe. Ils profitent de leur temps avec d'autres personnes partageant les mêmes intérêts. Les membres aiment participer à la culture française avec des amis qui veulent aussi s'amuser. Tout le monde dans le club aime se réunir et participer à des activités amusantes. Le club a beaucoup de gens qui acceptent et qui sont ouverts à de nouvelles amitiés.";
   var active3 = document.getElementById("members").innerHTML;
@@ -60,7 +60,8 @@ function membersfrench() {
     document.getElementById("members").innerHTML = "The students of French club are people who want to learn more about French culture than what they already learn in their classes. They enjoy their time with other people who have the same interests as they do. The members like taking part in French culture with friends that want to have fun also. Everyone in the club likes to come together and participate in fun activites. The club has many people that are accepting and who are open to new friendships.";
   }
 }
-
+/* This is the end of the membersfrench page with a translate function button*/
+/* This is the start of the aboutfrench page with a translate function button*/
 function aboutfrench() {
   var frenchab = "Pendant cette année scolaire 2019-20, le cercle français présente des spectacles de marionnettes. Nous faisons nos poupées et le théâtre, nous écrivons de petits dialogues et des pièces, et nous allons les présenter à nos camarades de Madison, aux écoliers de Jackson et à la communauté. Aussi, nous voyons des films, nous parlons français, nous faisons la cuisine, nous jouons à des jeux français, et nous sortons aux restaurants francophones et à Starbuck’s. Voudriez-vous améliorer votre français et vous faire des amis pour la vie ? Joignez-vous à nous! ";
   var activeab = document.getElementById("about").innerHTML;
@@ -70,3 +71,4 @@ function aboutfrench() {
     document.getElementById("about").innerHTML = "For this school year, 2019-20, the French Club is presenting puppet shows. We are making our puppets and our theater, we are writing sketches and plays, and we will present them to our Madison classmates, to schoolchildren in Jackson,and to the larger community. We also watch films, speak French, cook, eat, play games, and go to French-speaking restaurants and to Starbuck’s. Would you like to improve your French and make lifelong friends? Join us!";
   }
 }
+/* This is the end of the aboutfrench page with a translate function button*/
