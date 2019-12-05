@@ -259,6 +259,7 @@ h4 {
 .puppet {
   height: 350px;
   width: 380px;
+  transform: rotate(90deg);
 }
 /*end of .puppet*/
 /*start of .btn*/
