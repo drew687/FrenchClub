@@ -252,7 +252,7 @@ h4 {
 /*end of .puppets*/
 /*start of .bulletin*/
 .bulletin {
-  height: 240px;
+  height: 250px;
 }
 /*end of .bulletin*/
 /*start of .puppet*/
@@ -295,8 +295,9 @@ footer {
 /*start of @media screen and (max-width:)*/
 @media screen and (max-width: 1199px) {
   .bulletin {
-    width: 300px;
+    width: 250px;
     height: 280px;
+    padding-bottom: 0px;
   }
 /*end of @media screen and (max-width)*/
 /*start of .puppet*/
@@ -344,7 +345,7 @@ footer {
 /*start of .bulletin*/
   .bulletin {
     width: 250px;
-    height: 020px;
+    height: 220px;
   }
 /*end of .bulletin*/
 /*start of .puppet*/
