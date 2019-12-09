@@ -370,6 +370,10 @@ footer {
   .btn {
     margin-left: 440px;
   }
+  .activitiesBoxes{
+    font-size: 27px;
+    height: 320px;
+  }
 }
 
 /*start of @media screen and (max-width)*/
