@@ -229,6 +229,7 @@ h4 {
   font-weight: bold;
   font-family: 'Cormorant Garamond', serif;
   font-size: 30px;
+  height: 310px;
 }
 
 /*end of .testimonialsBoxes*/
@@ -279,14 +280,14 @@ h4 {
 /*end of .puppets*/
 /*start of .bulletin*/
 .bulletin {
-  height: 300px;
+  height: 265px;
 }
 
 /*end of .bulletin*/
 /*start of .puppet*/
 .puppet {
-  height: 350px;
-  width: 380px;
+  height: 265px;
+  width: 300px;
   transform: rotate(90deg);
 }
 
