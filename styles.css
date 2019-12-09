@@ -439,6 +439,10 @@ footer {
   .btn{
     margin-left: 320px;
   }
+  .activitiesBoxes{
+    font-size: 23px;
+    height: 300px;
+  }
 }
 
 /*end of h4*/
@@ -505,6 +509,10 @@ footer {
   .btn{
     margin-left: 320px;
   }
+  .activitiesBoxes{
+    font-size: 19px;
+    height: 210px;
+  }
 }
 
 /*end of h4*/
@@ -517,14 +525,14 @@ footer {
   /*start of .bulletin*/
   .bulletin {
     width: 180px;
-    height: 150px;
+    height: 145px;
   }
 
   /*end of .bulletin*/
   /*start of .puppet*/
   .puppet {
     width: 180px;
-    height: 150px;
+    height: 135px;
   }
 
   /*end of .puppet*/
@@ -569,6 +577,11 @@ footer {
   }
   .btn{
     margin-left: 160px;
+  }
+  .activitiesBoxes{
+    font-size: 19px;
+    height: 150px;
+    padding-top: 0px;
   }
 }
 
