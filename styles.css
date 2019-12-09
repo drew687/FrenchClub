@@ -131,7 +131,7 @@ a {
 /*end of .contact*/
 /*start of .activites*/
 .activities {
-  background: url(img/pont.jpg);
+  background: url(img/versailles.jpg);
   height: 1000px;
   background-size: cover;
   color: white;
@@ -368,8 +368,7 @@ footer {
 
   /*end of h4*/
   .btn {
-    margin-left: none;
-    margin-right: 100px;
+    margin-left: 440px;
   }
 }
 
@@ -433,6 +432,9 @@ footer {
     margin-bottom: 5px;
     font-size: 25px;
   }
+  .btn{
+    margin-left: 320px;
+  }
 }
 
 /*end of h4*/
@@ -495,6 +497,74 @@ footer {
     margin-top: 5px;
     margin-bottom: 5px;
     font-size: 25px;
+  }
+  .btn{
+    margin-left: 320px;
+  }
+}
+
+/*end of h4*/
+@media screen and (max-width:415px) {
+  .activitiesBoxes {
+    font-size: 15px;
+  }
+
+  /*end of @media screen and (max-width:775px)*/
+  /*start of .bulletin*/
+  .bulletin {
+    width: 180px;
+    height: 150px;
+  }
+
+  /*end of .bulletin*/
+  /*start of .puppet*/
+  .puppet {
+    width: 180px;
+    height: 150px;
+  }
+
+  /*end of .puppet*/
+  /*start of .membersBoxes*/
+  .membersBoxes {
+    font-size: 25px;
+  }
+
+  /*end of .membersBoxes*/
+  /*start of .aboutBoxes*/
+  .aboutBoxes {
+    font-size: 20px;
+  }
+
+  /*end of .aboutBoxes*/
+  /*start of .t-shirt*/
+  .t-shirt {
+    width: 300px;
+    height: 280px;
+    margin-left: 0px;
+  }
+
+  /*end of .t-shirt*/
+  /*start of .homeBoxes*/
+  .homeBoxes {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 320px;
+    height: 300px;
+  }
+
+  /*end of .homeBoxes*/
+  /*start of h4*/
+  h4 {
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 25px;
+  }
+  .btn{
+    margin-left: 160px;
   }
 }
 
