@@ -1,26 +1,5 @@
-# FrenchClub
+Our group consist of Nicolas Glosson, Andrew Mayo, and , Justin Thomas and our group is called N.D.J. and we attend Maddison Academic High-School.
 
-French Club Website
+We worked on different parts of the website, Drew worked on the responsiveness of the website, Nic put in the information of the website, and Justin gathered the information for the website from Dr. Spires.
 
-Justin
-is the indention correct? Fix code readability
-Are class names short?
-make sure all meta is in the <head> Keywords for specific pages
-Is all content in the body?
-Take out extra code
-Dont repeat yourself in CSS
-
-Drew
-Organize css
-use font stacks in CSS
-navigation in nav tags
-Make sure fonts are linked and check on a diff computer
-Check all links
-4 questions
-proofread
-
-Each page should have some similar keywords and some specific to the page.
-Comments on additonal pages
-Describe in a comment what the function is for in main.js
-Comments in css file and organized within those comments
-Assign work to Nic
+We asked Dr. Spires if we could make a website for the French Club because we notice that on her main website that she does have a page for the French Club but it does not have that much information about the French Club. So we decided that we could make her own website just for the French Club and have information far the website.
