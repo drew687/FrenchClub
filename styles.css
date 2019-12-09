@@ -10,6 +10,7 @@
     -1px 1px 0 #ffffff,
     1px 1px 0 #ffffff;
 }
+
 /*end of .display-4*/
 /*start of .jumbotron*/
 .jumbotron {
@@ -22,6 +23,7 @@
   background-repeat: no-repeat;
   margin-bottom: 0px;
 }
+
 /*end of .jumbotron*/
 /*start of h1*/
 h1 {
@@ -37,6 +39,7 @@ h1 {
     -1px 1px 0 black,
     1px 1px 0 black;
 }
+
 /*end of h1*/
 /*start of h2*/
 h2 {
@@ -51,6 +54,7 @@ h2 {
     1px 1px 0 black;
   font-size: 37px;
 }
+
 /*end of h2*/
 /*start of h3*/
 h3 {
@@ -64,17 +68,20 @@ h3 {
     -1px 1px 0 black,
     1px 1px 0 black;
 }
+
 /*end of h3*/
 /*start of p*/
 p {
   text-align: center;
   font-family: 'Cormorant Garamond', serif;
 }
+
 /*end of p*/
 /*start of a*/
 a {
   color: white;
 }
+
 /*end of a*/
 /*start of .col-md-5*/
 .col-md-5 {
@@ -84,6 +91,7 @@ a {
   border: solid;
   padding: 25px;
 }
+
 /*end of .col-md-5*/
 /*start of .members*/
 .members {
@@ -95,6 +103,7 @@ a {
   margin-bottom: 0px;
   background-position: 50%;
 }
+
 /*end of .members*/
 /*start of .about*/
 .about {
@@ -106,6 +115,7 @@ a {
   margin-bottom: 0px;
   background-position: 50%;
 }
+
 /*end of .about*/
 /*start of .contact*/
 .contact {
@@ -117,10 +127,11 @@ a {
   margin-bottom: 0px;
   background-position: 50%;
 }
+
 /*end of .contact*/
 /*start of .activites*/
 .activities {
-  background: url(img/pont.jpg);
+  background: url(img/versailles.jpg);
   height: 1000px;
   background-size: cover;
   color: white;
@@ -128,6 +139,7 @@ a {
   margin-bottom: 0px;
   background-position: 50%;
 }
+
 /*end of .activities*/
 /*start of .testimonials*/
 .testimonials {
@@ -139,6 +151,7 @@ a {
   margin-bottom: 0px;
   background-position: 50%;
 }
+
 /*end of .testimonials*/
 /*start of .t-shirt*/
 .t-shirt {
@@ -152,6 +165,7 @@ a {
   border-width: 7px;
   border-color: black;
 }
+
 /*end of .t-shirt*/
 /*start of .homeBoxes*/
 .homeBoxes {
@@ -162,6 +176,7 @@ a {
   align-items: center;
   transition: all .2s ease-in-out;
 }
+
 /*end of .homeBoxes*/
 /*start of .middle*/
 .middle {
@@ -169,11 +184,13 @@ a {
   height: 100px;
   text-align: center;
 }
+
 /*end of .middle*/
 /*start of .homeBoxes:hover*/
 .homeBoxes:hover {
   transform: scale(1.1);
 }
+
 /*end of .homeBoxes:hover*/
 /*start of h4*/
 h4 {
@@ -181,6 +198,7 @@ h4 {
   font-size: 45px;
   font-family: 'Anton', sans-serif;
 }
+
 /*end of h4*/
 /*start of .testimonialsBoxes*/
 .testimonialsBoxes {
@@ -190,16 +208,19 @@ h4 {
   font-family: 'Cormorant Garamond', serif;
   font-size: 20px
 }
+
 /*end of .testimonialsBoxes*/
 /*start of .testimonialsBoxes>p*/
 .testimonialsBoxes>p {
   text-align: center;
 }
+
 /*end of .testimonialsBoxes>p*/
 /*start of .testimonial>p*/
 .testimonial>p {
   margin-top: 39px;
 }
+
 /*end of .testimonial>p*/
 /*start of activitiesBoxes*/
 .activitiesBoxes {
@@ -207,8 +228,10 @@ h4 {
   border: 0px;
   font-weight: bold;
   font-family: 'Cormorant Garamond', serif;
-  font-size: 27px;
+  font-size: 30px;
+  height: 310px;
 }
+
 /*end of .testimonialsBoxes*/
 /*start of .membersBoxes*/
 .membersBoxes {
@@ -220,6 +243,7 @@ h4 {
   line-height: 2;
   margin-top: 55px;
 }
+
 /*end of .membersBoxes*/
 /*start of .contactBoxes*/
 .contactBoxes {
@@ -231,6 +255,7 @@ h4 {
   text-align: center;
   line-height: 2.5;
 }
+
 /*end of .contactBoxes*/
 /*start of .aboutBoxes*/
 .aboutBoxes {
@@ -239,45 +264,51 @@ h4 {
   border: 0px;
   font-size: 30px;
 }
+
 /*end of .aboutBoxes*/
 /*start of .d-block*/
 .d-block {
   height: 700px;
 }
+
 /*end of .d-block*/
 /*start of .puppets*/
-.puppets{
-  width:100%;
+.puppets {
+  width: 100%;
 }
+
 /*end of .puppets*/
 /*start of .bulletin*/
 .bulletin {
-  height: 250px;
+  height: 265px;
 }
+
 /*end of .bulletin*/
 /*start of .puppet*/
 .puppet {
-  height: 350px;
-  width: 380px;
+  height: 265px;
+  width: 300px;
   transform: rotate(90deg);
 }
+
 /*end of .puppet*/
 /*start of .btn*/
-.btn{
+.btn {
   background-color: black;
   color: white;
   border: none;
   height: 35px;
-  margin-left:520px;
+  margin-left: 520px;
 }
+
 /*end of .btn*/
 /*start of .btn:hover*/
-
-.btn:hover{
-  background-color:  #292828;
+.btn:hover {
+  background-color: #292828;
   transform: scale(1.1);
   color: white;
 }
+
 /*end of .btn:hover*/
 /*start of .footer*/
 footer {
@@ -291,28 +322,31 @@ footer {
   color: white;
   font-size: 18px;
 }
+
 /*end of .footer*/
 /*start of @media screen and (max-width:)*/
 @media screen and (max-width: 1199px) {
   .bulletin {
-    width: 250px;
+    width: 300px;
     height: 280px;
-    padding-bottom: 0px;
   }
-/*end of @media screen and (max-width)*/
-/*start of .puppet*/
+
+  /*end of @media screen and (max-width)*/
+  /*start of .puppet*/
   .puppet {
     width: 300px;
     height: 280px;
   }
-/*end of .puppet*/
-/*start of .t-shirt*/
+
+  /*end of .puppet*/
+  /*start of .t-shirt*/
   .t-shirt {
     width: 340px;
     height: 360px;
   }
-/*end of .t-shirt*/
-/*start of .homeboxes*/
+
+  /*end of .t-shirt*/
+  /*start of .homeboxes*/
   .homeBoxes {
     margin-top: 10px;
     margin-bottom: 10px;
@@ -322,56 +356,68 @@ footer {
     width: 500px;
     height: 360px;
   }
-/*end of .homeboxes*/
-/*start of h4*/
+
+  /*end of .homeboxes*/
+  /*start of h4*/
   h4 {
     text-align: center;
     font-stretch: expanded;
     margin-top: 5px;
     margin-bottom: 5px;
   }
+
   /*end of h4*/
-  .btn{
-    margin-left: none;
-    margin-right: 100px;
+  .btn {
+    margin-left: 440px;
+  }
+  .activitiesBoxes{
+    font-size: 27px;
+    height: 320px;
   }
 }
+
 /*start of @media screen and (max-width)*/
 @media screen and (max-width: 991px) {
   .activitiesBoxes {
     font-size: 20px;
   }
-/*end of @media screen and (max-width)*/
-/*start of .bulletin*/
+
+  /*end of @media screen and (max-width)*/
+  /*start of .bulletin*/
   .bulletin {
     width: 250px;
     height: 220px;
   }
-/*end of .bulletin*/
-/*start of .puppet*/
+
+  /*end of .bulletin*/
+  /*start of .puppet*/
   .puppet {
     width: 250px;
     height: 220px;
   }
-/*end of .puppet*/
-/*start of .membersBoxes*/
+
+  /*end of .puppet*/
+  /*start of .membersBoxes*/
   .membersBoxes {
     font-size: 25px;
   }
-/*end of .memberBoxes*/
-/*start of .aboutBoxes*/
+
+  /*end of .memberBoxes*/
+  /*start of .aboutBoxes*/
   .aboutBoxes {
     font-size: 20px;
   }
-/*end of .aboutBoxes*/
-/*start of .t-shirt*/
+
+  /*end of .aboutBoxes*/
+  /*start of .t-shirt*/
   .t-shirt {
     width: 300px;
     height: 280px;
     margin-left: 0px;
   }
-/*end of .t-shirt*/
-/*start of .homeBoxes*/
+
+  /*end of .t-shirt*/
+  /*start of .homeBoxes*/
   .homeBoxes {
     margin-top: 10px;
     margin-bottom: 10px;
@@ -381,52 +427,63 @@ footer {
     width: 320px;
     height: 300px;
   }
-/*end of .homeBoxes*/
-/*start of h4*/
+
+  /*end of .homeBoxes*/
+  /*start of h4*/
   h4 {
     text-align: center;
     margin-top: 5px;
     margin-bottom: 5px;
     font-size: 25px;
   }
+  .btn{
+    margin-left: 320px;
+  }
 }
+
 /*end of h4*/
 /*start of @media screen and (max-width:775px)*/
 @media screen and (max-width:775px) {
   .activitiesBoxes {
     font-size: 15px;
   }
-/*end of @media screen and (max-width:775px)*/
-/*start of .bulletin*/
+
+  /*end of @media screen and (max-width:775px)*/
+  /*start of .bulletin*/
   .bulletin {
     width: 180px;
     height: 150px;
   }
-/*end of .bulletin*/
-/*start of .puppet*/
+
+  /*end of .bulletin*/
+  /*start of .puppet*/
   .puppet {
     width: 180px;
     height: 150px;
   }
-/*end of .puppet*/
-/*start of .membersBoxes*/
+
+  /*end of .puppet*/
+  /*start of .membersBoxes*/
   .membersBoxes {
     font-size: 25px;
   }
-/*end of .membersBoxes*/
-/*start of .aboutBoxes*/
+
+  /*end of .membersBoxes*/
+  /*start of .aboutBoxes*/
   .aboutBoxes {
     font-size: 20px;
   }
-/*end of .aboutBoxes*/
-/*start of .t-shirt*/
+
+  /*end of .aboutBoxes*/
+  /*start of .t-shirt*/
   .t-shirt {
     width: 300px;
     height: 280px;
     margin-left: 0px;
   }
-/*end of .t-shirt*/
-/*start of .homeBoxes*/
+
+  /*end of .t-shirt*/
+  /*start of .homeBoxes*/
   .homeBoxes {
     margin-top: 10px;
     margin-bottom: 10px;
@@ -436,13 +493,83 @@ footer {
     width: 320px;
     height: 300px;
   }
-/*end of .homeBoxes*/
-/*start of h4*/
+
+  /*end of .homeBoxes*/
+  /*start of h4*/
   h4 {
     text-align: center;
     margin-top: 5px;
     margin-bottom: 5px;
     font-size: 25px;
   }
+  .btn{
+    margin-left: 320px;
+  }
 }
+
+/*end of h4*/
+@media screen and (max-width:415px) {
+  .activitiesBoxes {
+    font-size: 15px;
+  }
+
+  /*end of @media screen and (max-width:775px)*/
+  /*start of .bulletin*/
+  .bulletin {
+    width: 180px;
+    height: 150px;
+  }
+
+  /*end of .bulletin*/
+  /*start of .puppet*/
+  .puppet {
+    width: 180px;
+    height: 150px;
+  }
+
+  /*end of .puppet*/
+  /*start of .membersBoxes*/
+  .membersBoxes {
+    font-size: 25px;
+  }
+
+  /*end of .membersBoxes*/
+  /*start of .aboutBoxes*/
+  .aboutBoxes {
+    font-size: 20px;
+  }
+
+  /*end of .aboutBoxes*/
+  /*start of .t-shirt*/
+  .t-shirt {
+    width: 300px;
+    height: 280px;
+    margin-left: 0px;
+  }
+
+  /*end of .t-shirt*/
+  /*start of .homeBoxes*/
+  .homeBoxes {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 320px;
+    height: 300px;
+  }
+
+  /*end of .homeBoxes*/
+  /*start of h4*/
+  h4 {
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 25px;
+  }
+  .btn{
+    margin-left: 160px;
+  }
+}
+
 /*end of h4*/
